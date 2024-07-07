@@ -114,7 +114,7 @@ export default function Hero() {
           />
         </div>
         <div className="mx-auto max-w-2xl py-28 sm:py-48 lg:py-28">
-          <div className="hidden sm:mb-8 sm:flex sm:justify-center">
+          <div className="hidden sm:mb-8 sm:flex sm:justify-center pt-20">
             <div className="relative rounded-full px-3 py-1 text-sm leading-6 text-gray-600 ring-1 ring-themecolor hover:ring-themecolor-">
               Currently in the development phase.{' '}
               <a href="#" className="font-semibold text-indigo-600">
